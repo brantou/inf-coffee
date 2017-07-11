@@ -1,0 +1,5 @@
+* inf-coffee
+  :PROPERTIES:
+  :ID:       3f62f127-b6e1-4153-8f18-202f5334eaca
+  :END:
+inf-coffee provides a REPL buffer connected to a CoffeeScript subprocess.
